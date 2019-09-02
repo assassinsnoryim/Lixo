@@ -1,0 +1,23 @@
+/*
+  Name: assassinsnoryim
+  Copyright: 
+  Author: assassinsnoryim
+  Date: 02/09/19 12:14
+  Description: soma
+*/
+
+#include <iostream>
+using namespace std;
+      int main()
+      {
+          int a,b,c;
+          
+          cout <<"Digite seu Numero: ";
+          cin >> a;
+          cout <<"Digite Outro Numero: ";
+          cin >> b;
+          c=a+b;
+          cout <<"Seu Resultado: " << c << endl;
+          system("pause");
+          return 0;
+          }
